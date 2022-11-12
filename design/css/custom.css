@@ -1,0 +1,82 @@
+body{
+    /* background-image: url(../img/bg.jpg);
+    background-size: cover; */
+}  
+.bgviolet{
+    background-color: #5d1669 !important;
+    color: #5d1669 !important;
+}
+.space-t{ 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.space-c{ 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.space-b{ 
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+i{
+    cursor: pointer !important;
+}
+ul li{
+    margin-bottom: 15px !important; 
+}
+ul li div.title{ 
+    animation: fadeIn; 
+    animation-duration: 1s;
+}
+ul li div.child{
+    padding-left: 10px; 
+    font-size: 11px;
+    animation: fadeIn; 
+    animation-duration: 1.5s;
+    cursor: pointer;
+}
+.data-list {
+    height: 40px;
+    overflow-y: hidden;
+}
+
+
+.clicIcon { 
+    animation: bounceIn !important; 
+    animation-duration: 1s !important;  
+}
+.topIcon { 
+    animation: fadeIn; 
+    animation-duration: 1s;  
+}
+.bottomRightIcon { 
+    animation: fadeInRight; 
+    animation-duration: 1s;  
+}
+.bottomLeftIcon { 
+    animation: fadeInLeft; 
+    animation-duration: 1s;  
+}
+.titleLeft { 
+    animation: fadeInLeft; 
+    animation-duration: 1s;  
+}
+.titleRight { 
+    animation: fadeInRight; 
+    animation-duration: 1s;  
+} 
+.artwork{
+    animation: pulse; 
+    animation-duration: 2s; 
+}
+.has-search .form-control {
+    padding-left: 1.5rem;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 1.5rem;
+    height: 2.100rem;
+    line-height: 1.800rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
