@@ -1,12 +1,12 @@
 
 /* **************** CodproX CSS ******************** */
-/* Dernière mise à jour : 17/05/2023 - version:6.9 */
-*{
+/* Dernière mise à jour : 23/01/2023 - version:6.7 */
+/* *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	max-width: 100%;
-}
+} */
 /* input, textarea, select, a { outline: none !important; } */
 .x_zonedrag{-webkit-app-region: drag ;}
 .x_zonenodrag{-webkit-app-region: no-drag ;}
@@ -298,42 +298,6 @@
 	0% {opacity:1.0;}
 	50%{opacity:0.0;}
 	100%{opacity:1.0;}
-}
-
-.x_rotate-infinite {
-    -webkit-animation: rotate-infinite 2s linear infinite !important;
-    -moz-animation: rotate-infinite 2s linear infinite !important;
-    -ms-animation: rotate-infinite 2s linear infinite !important;
-    -o-animation: rotate-infinite 2s linear infinite !important;
-    animation: rotate-infinite 2s linear infinite !important;
-}
-@-webkit-keyframes rotate-infinite {
-from {
-    -webkit-transform: rotate(0deg) !important;
-    -o-transform: rotate(0deg) !important;
-    transform: rotate(0deg) !important;
-}
-to {
-    -webkit-transform: rotate(360deg) !important;
-    -o-transform: rotate(360deg) !important;
-    transform: rotate(360deg) !important;
-}
-}
-@keyframes rotate-infinite {
-from {
-    -ms-transform: rotate(0deg) !important;
-    -moz-transform: rotate(0deg) !important;
-    -webkit-transform: rotate(0deg) !important;
-    -o-transform: rotate(0deg) !important;
-    transform: rotate(0deg) !important;
-}
-to {
-    -ms-transform: rotate(360deg) !important;
-    -moz-transform: rotate(360deg) !important;
-    -webkit-transform: rotate(360deg) !important;
-    -o-transform: rotate(360deg) !important;
-    transform: rotate(360deg) !important;
-}
 }
 
 .marquee{

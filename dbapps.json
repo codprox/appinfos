@@ -1,0 +1,98 @@
+[
+    {
+        "app": "catholique",
+        "title":"Ecatholic",
+        "description":"Application mobile pour la gestion d'une Eglise catholique. Grâce à celle-ci, vous avez accès à l'actualité, les méditations.",
+        "icon":"catholique/icon.png",
+        "bg":"",
+        "linkmobile":"catholique/mobile_check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Mars 2023"
+    },
+    {
+        "app": "crudmysql",
+        "title":"CRUD Databases",
+        "description":"Gérer toutes vos Bases de données sur une seule interface, est l'objectif de ce logiciel desktop simple et desgin.",
+        "icon":"crudmysql/icon.png",
+        "bg":"crudmysql/dashboard.JPG",
+        "linkmobile":"",
+        "linkdesktop":"crudmysql/desktop_check.json",
+        "youtube":"",
+        "version":"1.0",
+        "dates":"Janvier 2023"
+    },
+    {
+        "app": "eiu",
+        "title":"EIU",
+        "description":"Application mobile pour une congrégation religieuse.",
+        "icon":"eiu/icon.png",
+        "bg":"",
+        "linkmobile":"eiu/mobile_check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"1.0",
+        "dates":"Décembre 2022"
+    },
+    {
+        "app": "elstudio",
+        "title":"Elstudio",
+        "description":"Application mobile pour une entreprise spécialisée dans la bandes dessinées.",
+        "icon":"elstudio/icon.png",
+        "bg":"elstudio/dashboard.jpeg",
+        "linkmobile":"elstudio/mobile_check.json",
+        "linkdesktop":"elstudio/desktop_check.json",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Avril 2023"
+    },
+    {
+        "app": "radiodatas",
+        "title":"Radiodatas",
+        "description":"Logiciel spécial dans la production des données audio MP3 pour une station de radio. Météo d'une ville, un Tagger MP3 ",
+        "icon":"radiodatas/icon.png",
+        "bg":"radiodatas/dashboard.JPG",
+        "linkmobile":"",
+        "linkdesktop":"radiodatas/desktop_check.json",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Septembre 2022"
+    },
+    {
+        "app": "radiodj",
+        "title":"Radio DJ mobile",
+        "description":"Gérer facilement votre logiciel RadioDJ avec ce PAD Moniteur Streaming. Gérer l'AutoDJ, les Evènements, musiques, ...",
+        "icon":"radiodj/icon.png",
+        "bg":"",
+        "linkmobile":"radiodj/mobile_check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Février 2023"
+    },
+    {
+        "app": "translator",
+        "title":"Translator",
+        "description":"Logiciel de traduction automatique de textes, de fichiers JSON.",
+        "icon":"translator/icon.png",
+        "bg":"translator/dashboard.JPG",
+        "linkmobile":"",
+        "linkdesktop":"translator/desktop_check.json",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Mars 2023"
+    },
+    {
+        "app": "youyubeplayer",
+        "title":"Youyubeplayer",
+        "description":"Player audio moderne. Il accède aux musiques MP3 dans vos fichiers locaux, ou depuis Internet.",
+        "icon":"youyubeplayer/icon.png",
+        "bg":"youyubeplayer/dashboard.JPG",
+        "linkmobile":"",
+        "linkdesktop":"youyubeplayer/desktop_check.json",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Mars 2023"
+    }
+]
