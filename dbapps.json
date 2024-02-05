@@ -9,7 +9,9 @@
         "linkdesktop":"",
         "youtube":"",
         "version":"2.0",
-        "dates":"Mars 2023"
+        "dates":"Mars 2023",
+        "category":"Mobile",
+        "annee":"2023"
     },
     {
         "app": "crudmysql",
@@ -21,7 +23,9 @@
         "linkdesktop":"crudmysql/desktop_check.json",
         "youtube":"",
         "version":"1.0",
-        "dates":"Janvier 2023"
+        "dates":"Janvier 2023",
+        "category":"Desktop",
+        "annee":"2023"
     },
     {
         "app": "eiu",
@@ -33,7 +37,9 @@
         "linkdesktop":"",
         "youtube":"",
         "version":"1.0",
-        "dates":"Décembre 2022"
+        "dates":"Décembre 2022",
+        "category":"Mobile",
+        "annee":"2022"
     },
     {
         "app": "elstudio",
@@ -45,7 +51,9 @@
         "linkdesktop":"elstudio/desktop_check.json",
         "youtube":"",
         "version":"2.0",
-        "dates":"Avril 2023"
+        "dates":"Avril 2023",
+        "category":"Mobile",
+        "annee":"2023"
     },
     {
         "app": "radiodatas",
@@ -57,7 +65,9 @@
         "linkdesktop":"radiodatas/desktop_check.json",
         "youtube":"",
         "version":"2.0",
-        "dates":"Septembre 2022"
+        "dates":"Septembre 2022",
+        "category":"Desktop",
+        "annee":"2022"
     },
     {
         "app": "radiodj",
@@ -69,7 +79,9 @@
         "linkdesktop":"",
         "youtube":"",
         "version":"2.0",
-        "dates":"Février 2023"
+        "dates":"Février 2023",
+        "category":"Mobile",
+        "annee":"2023"
     },
     {
         "app": "translator",
@@ -81,7 +93,9 @@
         "linkdesktop":"translator/desktop_check.json",
         "youtube":"",
         "version":"2.0",
-        "dates":"Mars 2023"
+        "dates":"Mars 2023",
+        "category":"Desktop",
+        "annee":"2023"
     },
     {
         "app": "youyubeplayer",
@@ -93,6 +107,22 @@
         "linkdesktop":"youyubeplayer/desktop_check.json",
         "youtube":"",
         "version":"2.0",
-        "dates":"Mars 2023"
+        "dates":"Mars 2023",
+        "category":"Desktop",
+        "annee":"2023"
+    },
+    {
+        "app": "churchappmpa",
+        "title":"ChurchApp M.P.A.",
+        "description":"Communication sociale de l'église Ministère de la PIERRE ANGULAIRE. Grâce à celle-ci, vous avez accès à l'actualité, les méditations, aux prédications audios, etc.",
+        "icon":"churchappmpa/icon.png",
+        "bg":"",
+        "linkmobile":"churchappmpa/mobile_check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"1.0",
+        "dates":"Février 2024",
+        "category":"Mobile",
+        "annee":"2024"
     }
 ]

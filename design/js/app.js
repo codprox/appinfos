@@ -46,10 +46,17 @@ apps.controller('rootCtrl', function($scope,PostService){
 	} 
 
 	var db = 'dbapps.json';
+	var ca = 'category.json';
 	$scope.listApps = [];
+	$scope.category = [];
     PostService.get(db).then(function(data){
 		console.log(data)
 		$scope.listApps = data;
+		$scope.changeState_();
+	})
+    PostService.get(ca).then(function(data){
+		console.log(data)
+		$scope.category = data;
 		$scope.changeState_();
 	})
 })
