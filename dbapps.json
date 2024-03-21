@@ -124,5 +124,19 @@
         "dates":"Février 2024",
         "category":"Mobile",
         "annee":"2024"
+    },
+    {
+        "app": "biblesgabon",
+        "title":"Bibles du Gabon",
+        "description":"Application mobile pour la Bible en Ethnies gabonaises",
+        "icon":"biblesgabon/icon.png",
+        "bg":"",
+        "linkmobile":"biblesgabon/mobile_check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"1.0",
+        "dates":"Mars 2024",
+        "category":"Mobile",
+        "annee":"2024"
     }
 ]
