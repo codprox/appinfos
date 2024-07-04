@@ -1,11 +1,11 @@
 {
     "version": "1.0.0",
-    "database": "https://codprox.github.io/appinfos/churchappmpa/data/",
-    "url": "https://codprox.github.io/appinfos/churchappmpa/download/1.0.0/churchappmpa.apk",
-    "arm64url" : "https://codprox.github.io/appinfos/churchappmpa/download/1.0.0/churchappmpa-arm64-v8a.apk",
-    "apple": "https://codprox.github.io/appinfos/churchappmpa/download/1.0.0/churchappmpa.apple",
+    "database": "https://codprox.github.io/appinfos/cnss/data/",
+    "url": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apk",
+    "arm64url" : "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss-arm64-v8a.apk",
+    "apple": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apple",
     "playstore":"",
-    "privacy":"",
+    "privacy":"https://codprox.github.io/appinfos/cnss/data/privacy.json",
     "about":"",
-    "titleApp":"ChurchApp"
+    "titleApp":"CNSS"
 }
