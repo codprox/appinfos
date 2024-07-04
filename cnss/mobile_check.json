@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "url": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apk",
+    "arm64url" : "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss-arm64-v8a.apk",
+    "apple": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apple",
+    "playstore":"",
+    "privacy":"",
+    "about":"Caisse Nationale de Sécurité Sociale",
+    "titleApp":"CNSS"
+}
