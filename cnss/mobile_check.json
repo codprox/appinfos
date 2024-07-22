@@ -6,5 +6,6 @@
     "playstore":"",
     "privacy":"https://codprox.github.io/appinfos/cnss/data/privacy.json",
     "about":"Caisse Nationale de Sécurité Sociale",
-    "titleApp":"CNSS"
+    "titleApp":"CNSS",
+    "icon":"https://codprox.github.io/appinfos/cnss/icon.png"
 }
