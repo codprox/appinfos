@@ -1,10 +1,18 @@
 {
     "version": "1.0.0",
-    "url": "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/biblesgabon.apk",
-    "arm64url" : "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/biblesgabon-arm64-v8a.apk",
-    "apple": "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/biblesgabon.apple",
-    "playstore":"",
-    "privacy":"",
+    "android": [
+        {"playstore" :""},
+        {"allurl"    : "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/app.apk"},
+        {"x8664url"  : "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/app-x86_64-release.apk"},
+        {"armeabiurl": "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/app-armeabi-v7a-release.apk"},
+        {"arm64url"  : "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/app-arm64-v8a-release.apk"}
+    ], 
+    "apple": [
+        {"applestore":""},
+        {"url"       : "https://codprox.github.io/appinfos/biblesgabon/download/1.0.0/biblesgabon.apple"}
+    ],
+    "privacy":"https://codprox.github.io/appinfos/biblesgabon/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/biblesgabon/data/termsconditions.txt",
     "about":"Application mobile pour la Bible en Ethnies gabonaises",
     "titleApp":"Bibles du Gabon",
     "icon":"https://codprox.github.io/appinfos/biblesgabon/icon.png"

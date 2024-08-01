@@ -1,10 +1,18 @@
 {
     "version": "1.0.0",
-    "url": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apk",
-    "arm64url" : "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss-arm64-v8a.apk",
-    "apple": "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apple",
-    "playstore":"",
-    "privacy":"https://codprox.github.io/appinfos/cnss/data/privacy.json",
+    "android": [
+        {"playstore" :""},
+        {"allurl"    : "https://codprox.github.io/appinfos/cnss/download/1.0.0/app.apk"},
+        {"x8664url"  : "https://codprox.github.io/appinfos/cnss/download/1.0.0/app-x86_64-release.apk"},
+        {"armeabiurl": "https://codprox.github.io/appinfos/cnss/download/1.0.0/app-armeabi-v7a-release.apk"},
+        {"arm64url"  : "https://codprox.github.io/appinfos/cnss/download/1.0.0/app-arm64-v8a-release.apk"}
+    ], 
+    "apple": [
+        {"applestore":""},
+        {"url"       : "https://codprox.github.io/appinfos/cnss/download/1.0.0/cnss.apple"}
+    ],
+    "privacy":"https://codprox.github.io/appinfos/cnss/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/cnss/data/termsconditions.txt",
     "about":"Caisse Nationale de Sécurité Sociale",
     "titleApp":"CNSS",
     "icon":"https://codprox.github.io/appinfos/cnss/icon.png"

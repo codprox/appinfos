@@ -1,8 +1,19 @@
 {
-    "version": "1.0.2",
-    "x8664": "https://codprox.github.io/catholique/ecatholic/download/1.0.0/app-x86_64-release.apk",
-    "armeabi": "https://codprox.github.io/catholique/ecatholic/download/1.0.0/app-armeabi-v7a-release.apk",
-    "arm64" : "https://codprox.github.io/catholique/ecatholic/download/1.0.0/app-arm64-v8a-release.apk",
-    "apple": "https://codprox.github.io/catholique/ecatholic/download/1.0.0/ecatholic.apple",
-    "playstore":" "
+    "version": "1.0.0",
+    "android": [
+        {"playstore" :""},
+        {"allurl"    : "https://codprox.github.io/appinfos/catholique/download/1.0.0/app.apk"},
+        {"x8664url"  : "https://codprox.github.io/appinfos/catholique/download/1.0.0/app-x86_64-release.apk"},
+        {"armeabiurl": "https://codprox.github.io/appinfos/catholique/download/1.0.0/app-armeabi-v7a-release.apk"},
+        {"arm64url"  : "https://codprox.github.io/appinfos/catholique/download/1.0.0/app-arm64-v8a-release.apk"}
+    ], 
+    "apple": [
+        {"applestore":""},
+        {"url"       : "https://codprox.github.io/appinfos/catholique/download/1.0.0/catholique.apple"}
+    ],
+    "privacy":"https://codprox.github.io/appinfos/catholique/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/catholique/data/termsconditions.txt",
+    "about":"Application mobile pour une église catholique",
+    "titleApp":"catholique",
+    "icon":"https://codprox.github.io/appinfos/catholique/icon.png"
 }

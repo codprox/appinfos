@@ -1,11 +1,19 @@
 {
     "version": "1.0.0",
-    "url": "https://codprox.github.io/appinfos/viechere/download/1.0.0/viechere.apk",
-    "arm64url" : "https://codprox.github.io/appinfos/viechere/download/1.0.0/viechere-arm64-v8a.apk",
-    "apple": "https://codprox.github.io/appinfos/viechere/download/1.0.0/viechere.apple",
-    "playstore":"",
-    "privacy":"https://codprox.github.io/appinfos/viechere/data/privacy.json",
-    "about":"Caisse Nationale de Sécurité Sociale",
-    "titleApp":"viechere",
+    "android": [
+        {"playstore" :""},
+        {"allurl"    : "https://codprox.github.io/appinfos/viechere/download/1.0.0/app.apk"},
+        {"x8664url"  : "https://codprox.github.io/appinfos/viechere/download/1.0.0/app-x86_64-release.apk"},
+        {"armeabiurl": "https://codprox.github.io/appinfos/viechere/download/1.0.0/app-armeabi-v7a-release.apk"},
+        {"arm64url"  : "https://codprox.github.io/appinfos/viechere/download/1.0.0/app-arm64-v8a-release.apk"}
+    ], 
+    "apple": [
+        {"applestore":""},
+        {"url"       : "https://codprox.github.io/appinfos/viechere/download/1.0.0/viechere.apple"}
+    ],
+    "privacy":"https://codprox.github.io/appinfos/viechere/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/viechere/data/termsconditions.txt",
+    "about":"Application mobile pour la mercuriale et la vie chère au Gabon",
+    "titleApp":"VieChere",
     "icon":"https://codprox.github.io/appinfos/viechere/icon.png"
 }
