@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "url": "https://api.bitech-gabon.com",
+    "privacy":"https://codprox.github.io/appinfos/restapi/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/restapi/data/termsconditions.txt",
+    "about":"Service web de REST API gratuit pour une durée de trois mois, avec 50 Mo de stockage de fichiers offerts.",
+    "titleApp":"REST API",
+    "icon":"https://codprox.github.io/appinfos/restapi/icon.png"
+}
