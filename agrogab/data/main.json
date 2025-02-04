@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "database": "https://codprox.github.io/appinfos/restapi/data/",
+    "url": "https://codprox.github.io/appinfos/restapi/download/1.0.0/restapi.apk",
+    "arm64url" : "https://codprox.github.io/appinfos/restapi/download/1.0.0/restapi-arm64-v8a.apk",
+    "apple": "https://codprox.github.io/appinfos/restapi/download/1.0.0/restapi.apple",
+    "playstore":"",
+    "privacy":"https://codprox.github.io/appinfos/restapi/data/privacy.json",
+    "about":"",
+    "titleApp":"RESTAPI"
+}
