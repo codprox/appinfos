@@ -1,0 +1,18 @@
+{
+    "technologies": [
+		{"name":"Javascript"}, 
+		{"name":"PHP Objet"}, 
+		{"name":"ReactJs"}, 
+		{"name":"Angular 18"}, 
+    ],
+    "competences": [
+		{"name":"Création d'API Laravel 11"},  
+    ],
+    "domaines_expertises": [
+		{"name":"Création d'API Laravel 11"},  
+    ],
+	"certifications": [
+		{"name":"Création d'API Laravel 11"},  
+    ],
+}
+
