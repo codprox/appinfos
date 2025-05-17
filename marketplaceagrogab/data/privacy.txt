@@ -1,73 +1,69 @@
-Privacy Policy
-This privacy policy applies to the RESTAPI app (hereby referred to as "Application") for mobile devices that was created by CodproX (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Politique de Confidentialité
+Dernière mise à jour : 2025-05-17
 
+Bienvenue sur notre Marketplace spécialisée dans la vente de produits bio au Gabon. La protection de vos données personnelles est une priorité pour nous. La présente politique de confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons, stockons et protégeons vos informations lorsque vous utilisez notre plateforme.
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+1. Collecte des données personnelles
+Lorsque vous utilisez notre marketplace, nous pouvons collecter les informations suivantes :
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+Données d'identification : nom, prénom, adresse e-mail, numéro de téléphone.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Informations de compte : nom d’utilisateur, mot de passe (crypté).
 
-Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Données de livraison : adresse postale, ville, province, code postal.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Informations de paiement : via des prestataires sécurisés (nous ne stockons pas vos données bancaires).
 
+Données de navigation : adresse IP, type d'appareil, historique d’achats, préférences produits.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to codesprox@gmail.com, 24, 37, male. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+2. Utilisation des données
+Les données collectées sont utilisées pour :
 
+Traiter et livrer vos commandes.
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Améliorer l’expérience utilisateur sur notre plateforme.
 
+Vous informer sur les offres spéciales, promotions et nouveautés (si vous y consentez).
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Gérer votre compte utilisateur et assurer le service client.
 
-Google Play Services
-AdMob
-Google Analytics for Firebase
-One Signal
+Se conformer aux obligations légales ou réglementaires en vigueur au Gabon.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+3. Partage des données
+Vos informations ne sont jamais vendues à des tiers. Elles peuvent être partagées uniquement avec :
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Les partenaires logistiques pour la livraison des commandes.
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Les prestataires techniques (hébergement, maintenance, paiement sécurisé).
 
+Les autorités compétentes, uniquement en cas d’obligation légale.
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at codesprox@gmail.com and they will respond in a reasonable time.
+4. Sécurité des données
+Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles pour protéger vos données contre tout accès non autorisé, perte, altération ou divulgation.
 
+5. Conservation des données
+Vos données personnelles sont conservées pendant toute la durée de la relation commerciale et jusqu'à 5 ans après votre dernière interaction, sauf obligation légale contraire.
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+6. Vos droits
+Conformément à la législation gabonaise en matière de protection des données (et aux normes internationales), vous disposez des droits suivants :
 
+Droit d’accès à vos données.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (codesprox@gmail.com) so that they will be able to take the necessary actions.
+Droit de rectification ou suppression.
 
+Droit d’opposition au traitement.
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+Droit à la portabilité des données.
 
+Pour exercer vos droits, contactez-nous à : codesprox@gmail.com
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+7. Cookies
+Notre site utilise des cookies pour améliorer l’expérience utilisateur. Vous pouvez paramétrer votre navigateur pour refuser les cookies ou être alerté lors de leur utilisation.
 
+8. Modifications de la politique
+Nous nous réservons le droit de modifier cette politique à tout moment. Les changements seront publiés sur cette page avec une date de mise à jour.
 
-This privacy policy is effective as of 2024-01-01
-
-
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at codesprox@gmail.com.
+9. Contact
+Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à :
+📧 codesprox@gmail.com
+📞 +241 074 51 15 94
