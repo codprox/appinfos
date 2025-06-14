@@ -1,0 +1,73 @@
+Politique de Confidentialité
+Dernière mise à jour : 2025-05-17
+
+Bienvenue sur IA-Yamble, notre application d’intelligence artificielle dédiée à la discussion, la traduction, la transcription, la sauvegarde et la valorisation des langues africaines. Votre vie privée est essentielle pour nous. Cette politique de confidentialité vise à vous expliquer comment nous collectons, utilisons, protégeons et conservons vos données personnelles.
+
+1. Collecte des données personnelles
+Lorsque vous utilisez IA-Yamble, nous pouvons recueillir les données suivantes :
+
+Données d’identification : nom, prénom, adresse e-mail, numéro de téléphone.
+
+Informations de compte : nom d’utilisateur, mot de passe (crypté).
+
+Données linguistiques : textes, audios ou traductions que vous enregistrez ou partagez via l’application.
+
+Données de navigation : adresse IP, type d'appareil, système d’exploitation, langue, temps d’utilisation.
+
+Autres contributions : proverbes, expressions ou extraits de conversation en langue africaine soumis volontairement.
+
+2. Utilisation des données
+Les données collectées sont utilisées pour :
+
+Fournir et améliorer les services d’IA (chat, traduction, synthèse vocale, transcription, sauvegarde linguistique).
+
+Enrichir notre base de données linguistique à des fins de recherche et de développement (avec votre consentement explicite).
+
+Gérer votre compte utilisateur et assurer le support technique.
+
+Vous informer des nouvelles fonctionnalités, améliorations ou initiatives culturelles liées aux langues africaines (si vous y avez consenti).
+
+Respecter nos obligations légales, notamment en matière de protection des données.
+
+3. Partage des données
+Vos données ne sont jamais vendues. Elles peuvent être partagées uniquement avec :
+
+Des chercheurs, linguistes ou partenaires culturels, après anonymisation et uniquement dans un cadre scientifique ou éducatif.
+
+Des prestataires techniques (hébergement sécurisé, services de transcription, traduction automatique).
+
+Les autorités compétentes en cas d’obligation légale (ex. enquête judiciaire).
+
+4. Sécurité des données
+Nous appliquons des mesures de sécurité avancées (chiffrement, authentification, audits réguliers) pour protéger vos données contre toute perte, accès non autorisé ou modification.
+
+5. Conservation des données
+Vos données sont conservées :
+
+Pendant la durée de votre utilisation de l’application.
+
+Jusqu’à 5 ans après votre dernière activité, sauf si vous demandez leur suppression ou s’il existe une obligation légale de conservation.
+
+6. Vos droits
+Conformément à la législation gabonaise et aux normes internationales en matière de protection des données, vous disposez des droits suivants :
+
+Droit d’accès à vos données personnelles.
+
+Droit de rectification ou de suppression de vos informations.
+
+Droit d’opposition à certains traitements (notamment pour des fins de recherche).
+
+Droit à la portabilité des données (sur demande).
+
+📩 Pour exercer vos droits, contactez-nous à : codesprox@gmail.com
+
+7. Cookies et technologies similaires
+L’application peut utiliser des cookies ou technologies équivalentes (selon la plateforme) pour analyser l’utilisation de l’application et améliorer l’expérience utilisateur. Vous pouvez désactiver ces fonctionnalités via les paramètres de votre appareil.
+
+8. Modifications de la politique
+Nous pouvons mettre à jour cette politique à tout moment. Toute modification sera visible sur cette page avec une nouvelle date de mise à jour.
+
+9. Contact
+Pour toute question relative à cette politique de confidentialité, vous pouvez nous contacter à :
+📧 codesprox@gmail.com
+📞 +241 074 51 15 94
