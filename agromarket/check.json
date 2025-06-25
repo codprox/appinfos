@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
-    "url": "https://codprox.github.io/appinfos/marketplaceagrogab/",
-    "privacy":"https://codprox.github.io/appinfos/marketplaceagrogab/data/privacy.txt",
-    "termsconditions":"https://codprox.github.io/appinfos/marketplaceagrogab/data/termsconditions.txt",
-    "about":"Marketplace spécialisée dans la vente des produits bio GABON",
-    "titleApp":"Marketplace AgroGAB",
-    "icon":"https://codprox.github.io/appinfos/marketplaceagrogab/icon.png"
+    "url": "https://codprox.github.io/appinfos/agromarket/",
+    "privacy":"https://codprox.github.io/appinfos/agromarket/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/agromarket/data/termsconditions.txt",
+    "about":"Le marché numérique des produits bio MadeIn GABON",
+    "titleApp":"AgroMarket",
+    "icon":"https://codprox.github.io/appinfos/agromarket/icon.png"
 } 
