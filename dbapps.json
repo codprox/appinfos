@@ -1,5 +1,24 @@
 [
     {
+        "app": "eenquetes",
+        "title":"E-Enquêtes",
+        "description":"Enquêtez, observez, décidez — tout devient clair !",
+        "icon":"eenquetes/icon.png",
+        "bg":"",
+        "linkmobile":"eenquetes/check.json",
+        "linkdesktop":"",
+        "youtube":"",
+        "version":"2.0",
+        "dates":"Septembre 2025",
+        "category":"mobile",
+        "auteur":"Armand MOUELE",
+        "email":"",
+        "telephone":"",
+        "duree":"1 mois",
+        "pourcentage":"100",
+        "annee":"2025"
+    },
+    {
         "app": "catholique",
         "title":"Ecatholic",
         "description":"Application mobile pour la gestion d'une Eglise catholique. Grâce à celle-ci, vous avez accès à l'actualité, les méditations.",
