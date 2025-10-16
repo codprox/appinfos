@@ -1,0 +1,113 @@
+⚖️ termsconditions.txt
+
+Conditions Générales d’Utilisation (CGU)
+Dernière mise à jour : 2025-10-16
+
+Bienvenue sur E-Enquêtes, un système de gestion et d’analyse d’enquêtes en ligne (municipales, électorales, de santé, de recensement, etc.).
+En accédant à la plateforme, vous acceptez pleinement les présentes Conditions Générales d’Utilisation (ci-après « CGU »).
+
+1. Définitions
+
+E-Enquêtes : plateforme numérique développée par Codprox, permettant la création, la gestion et l’analyse d’enquêtes.
+
+Utilisateur : toute personne utilisant l’application (administrateur, enquêteur, répondant, etc.).
+
+Entreprise / Organisation : entité cliente utilisant la plateforme pour ses propres enquêtes.
+
+Administrateur système / entreprise : responsable de la configuration, des utilisateurs et du suivi des enquêtes.
+
+Services : ensemble des fonctionnalités offertes (création d’enquêtes, collecte de données, analyse, rapports, IA, exportation, etc.).
+
+2. Objet
+
+Les présentes CGU définissent :
+
+Les modalités d’accès et d’utilisation des services de E-Enquêtes.
+
+Les droits et obligations des utilisateurs.
+
+Les règles de confidentialité, de sécurité et de propriété intellectuelle applicables.
+
+3. Accès à la plateforme
+
+L’accès à E-Enquêtes nécessite un compte utilisateur et, selon les cas, un rattachement à une entreprise ou organisation.
+L’utilisateur s’engage à fournir des informations exactes et à jour.
+L’accès peut être suspendu ou limité pour maintenance ou raison de sécurité.
+
+4. Utilisation des services
+
+L’application permet notamment de :
+
+Créer, gérer et suivre des enquêtes dynamiques (formulaires, sections, questions, options).
+
+Collecter des réponses sur le terrain (en ligne ou hors connexion).
+
+Générer des rapports automatiques et statistiques.
+
+Gérer les rôles et permissions (enquêteur, administrateur, observateur, etc.).
+
+Exporter les résultats sous divers formats (PDF, Excel, images).
+
+L’utilisateur s’engage à utiliser ces services conformément à la loi et à une éthique professionnelle.
+
+5. Responsabilités
+
+L’utilisateur est seul responsable des données qu’il saisit ou téléverse.
+
+E-Enquêtes n’est pas responsable du contenu, de la véracité ou de l’interprétation des réponses collectées.
+
+Toute utilisation abusive, frauduleuse ou illicite peut entraîner la suspension immédiate du compte.
+
+6. Protection des données personnelles
+
+Les données personnelles sont traitées conformément à notre Politique de Confidentialité, accessible à l’adresse :
+🔗 https://codprox.github.io/appinfos/eenquetes/data/privacy.txt
+
+7. Propriété intellectuelle
+
+Tous les éléments de la plateforme (code source, interface, algorithmes, graphismes, bases de données, documentation) sont protégés par le droit gabonais et international.
+Toute reproduction, distribution ou exploitation non autorisée est strictement interdite.
+
+8. Sécurité et authentification
+
+L’accès sécurisé repose sur des identifiants personnels, mots de passe chiffrés, et un système de tokens JWT/OTP.
+L’utilisateur doit veiller à la confidentialité de ses identifiants et signaler toute activité suspecte.
+
+9. Services payants (optionnels)
+
+Certains services avancés (hébergement privé, IA statistique, assistance personnalisée, stockage étendu) peuvent être payants.
+
+Paiement via mobile money ou carte bancaire.
+
+Transactions sécurisées via prestataires agréés.
+
+Aucune donnée bancaire n’est conservée localement.
+
+10. Suspension et résiliation
+
+Un compte peut être suspendu ou supprimé dans les cas suivants :
+
+Violation des CGU.
+
+Usage illégal, frauduleux ou contraire à la morale.
+
+Tentative d’accès non autorisé au système ou aux données d’autrui.
+
+11. Modifications des CGU
+
+E-Enquêtes se réserve le droit de modifier les présentes CGU à tout moment.
+Les utilisateurs seront notifiés en cas de changement majeur.
+La date de dernière mise à jour figure en haut du document.
+
+12. Loi applicable et juridiction
+
+Les présentes CGU sont régies par le droit gabonais.
+Tout litige non résolu à l’amiable sera porté devant le tribunal compétent de Libreville.
+
+13. Contact
+
+Pour toute question, assistance ou réclamation :
+📧 codesprox@gmail.com
+
+📞 +241 074 51 15 94
+🌐 https://codprox.github.io/appinfos/eenquetes/

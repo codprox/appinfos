@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "url": "https://codprox.github.io/appinfos/eenquetes/",
+    "privacy":"https://codprox.github.io/appinfos/eenquetes/data/privacy.txt",
+    "termsconditions":"https://codprox.github.io/appinfos/eenquetes/data/termsconditions.txt",
+    "about":"Enquêtez, observez, décidez — tout devient clair !",
+    "titleApp":"E-Enquêtes",
+    "icon":"https://codprox.github.io/appinfos/eenquetes/icon.png",
+    "icon-background":"https://codprox.github.io/appinfos/eenquetes/icon-background.png",
+    "icon-gris":"https://codprox.github.io/appinfos/eenquetes/icon-gris.png",
+    "icon-white":"https://codprox.github.io/appinfos/eenquetes/icon-white.png",
+    "background":"https://codprox.github.io/appinfos/eenquetes/screens/background.png"
+} 

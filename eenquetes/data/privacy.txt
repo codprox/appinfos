@@ -1,0 +1,112 @@
+🧾 privacy.txt
+
+Politique de Confidentialité
+Dernière mise à jour : 2025-10-16
+
+Bienvenue sur E-Enquêtes, notre plateforme numérique dédiée à la création, la gestion et l’analyse d’enquêtes (municipales, électorales, sociales, sanitaires, etc.).
+Votre vie privée est essentielle pour nous. Cette politique de confidentialité explique comment nous collectons, utilisons, protégeons et conservons vos données personnelles.
+
+1. Collecte des données personnelles
+
+Lorsque vous utilisez E-Enquêtes, nous pouvons recueillir les données suivantes :
+
+Données d’identification : nom, prénom, adresse e-mail, numéro de téléphone.
+
+Informations de compte : identifiant, mot de passe (chiffré), rôle (administrateur, enquêteur, etc.).
+
+Données d’activité : enquêtes créées, réponses saisies, observations, coordonnées GPS, photos ou documents liés à une enquête.
+
+Données techniques : adresse IP, type d’appareil, système d’exploitation, navigateur, localisation approximative, date et heure d’accès.
+
+Autres données : informations partagées volontairement lors d’un sondage, rapport ou message d’assistance.
+
+2. Utilisation des données
+
+Les données collectées sont utilisées pour :
+
+Gérer les comptes utilisateurs, rôles et accès sécurisés.
+
+Permettre la création, le déploiement et l’analyse d’enquêtes.
+
+Produire des rapports et statistiques via nos services d’intelligence artificielle intégrés (analyse, graphiques, visualisations).
+
+Assurer le support technique et la maintenance du système.
+
+Améliorer la qualité et la performance de la plateforme.
+
+Respecter les obligations légales ou contractuelles applicables.
+
+3. Partage des données
+
+Vos données ne sont jamais vendues. Elles peuvent être partagées uniquement avec :
+
+Des organisations partenaires (ex. collectivités, ONG, entreprises clientes) pour la gestion d’enquêtes, conformément aux contrats établis.
+
+Des prestataires techniques (hébergement, services d’analyse, messagerie, stockage sécurisé).
+
+Les autorités compétentes en cas d’obligation légale (ex. enquête judiciaire, audit de conformité).
+
+Toutes les données partagées sont soumises à des clauses de confidentialité strictes.
+
+4. Sécurité des données
+
+Nous appliquons des mesures de sécurité avancées pour protéger vos informations, notamment :
+
+Chiffrement des mots de passe et communications (HTTPS, SSL/TLS).
+
+Systèmes d’authentification basés sur JWT et OTP.
+
+Sauvegardes et audits réguliers.
+
+Gestion stricte des accès administratifs et des journaux d’activité.
+
+5. Conservation des données
+
+Vos données sont conservées :
+
+Tant que votre compte est actif.
+
+Jusqu’à 5 ans après la dernière activité, sauf demande de suppression anticipée ou obligation légale contraire.
+
+Les données d’enquête peuvent être anonymisées à des fins statistiques ou d’archivage.
+
+6. Vos droits
+
+Conformément à la législation gabonaise et aux standards internationaux (RGPD), vous disposez des droits suivants :
+
+Droit d’accès à vos données.
+
+Droit de rectification ou suppression de vos informations.
+
+Droit d’opposition à certains traitements.
+
+Droit à la portabilité (export de vos données sur demande).
+
+📩 Pour exercer vos droits, contactez-nous à : codesprox@gmail.com
+
+7. Cookies et technologies similaires
+
+E-Enquêtes peut utiliser des cookies ou technologies équivalentes pour :
+
+Améliorer la navigation et l’expérience utilisateur.
+
+Analyser les statistiques d’utilisation.
+
+Gérer les sessions utilisateurs et l’authentification.
+
+Vous pouvez désactiver les cookies via les paramètres de votre navigateur.
+
+8. Modifications de la politique
+
+Nous pouvons mettre à jour cette politique à tout moment.
+La date de la dernière mise à jour est indiquée en haut du document.
+Toute modification importante fera l’objet d’une notification sur la plateforme.
+
+9. Contact
+
+Pour toute question ou demande relative à la protection de vos données :
+
+📧 codesprox@gmail.com
+
+📞 +241 074 51 15 94
+🌐 https://codprox.github.io/appinfos/eenquetes/

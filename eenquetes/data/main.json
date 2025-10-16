@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "database": "https://codprox.github.io/appinfos/iayamble/data/",
+    "url": "https://codprox.github.io/appinfos/iayamble/download/1.0.0/iayamble.apk",
+    "arm64url" : "https://codprox.github.io/appinfos/iayamble/download/1.0.0/iayamble-arm64-v8a.apk",
+    "apple": "https://codprox.github.io/appinfos/iayamble/download/1.0.0/iayamble.apple",
+    "playstore":"",
+    "privacy":"https://codprox.github.io/appinfos/iayamble/data/privacy.json",
+    "about":"Enquêtez, observez, décidez — tout devient clair !",
+    "titleApp":"E-Enquêtes"
+}
