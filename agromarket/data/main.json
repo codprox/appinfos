@@ -1,11 +1,11 @@
 {
     "version": "1.0.0",
     "database": "https://codprox.github.io/appinfos/agromarket/data/",
-    "url": "https://codprox.github.io/appinfos/agromarket/download/1.0.0/agromarket.apk",
-    "arm64url" : "https://codprox.github.io/appinfos/agromarket/download/1.0.0/agromarket-arm64-v8a.apk",
-    "apple": "https://codprox.github.io/appinfos/agromarket/download/1.0.0/agromarket.apple",
+    "x86_64": "https://codprox.github.io/appinfos/agromarket/download/1.0.0/app-x86_64-release-agromarket.apk",
+    "arm64-v8a" : "https://codprox.github.io/appinfos/agromarket/download/1.0.0/app-arm64-v8a-release-agromarket.apk",
+    "armeabi-v7a" : "https://codprox.github.io/appinfos/agromarket/download/1.0.0/app-armeabi-v7a-release-agromarket.apk",
+    "ios": "https://codprox.github.io/appinfos/agromarket/download/1.0.0/ios-agromarket.apple",
     "playstore":"",
-    "privacy":"https://codprox.github.io/appinfos/agromarket/data/privacy.json",
     "about":"Le marché numérique des produits bio MadeIn GABON",
     "titleApp":"AgroMarket"
 }

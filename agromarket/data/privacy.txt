@@ -1,69 +1,41 @@
-Politique de Confidentialité
-Dernière mise à jour : 2025-05-17
+🔒 Politique de Confidentialité
 
-Bienvenue sur notre Marketplace spécialisée dans la vente de produits bio made in Gabon. La protection de vos données personnelles est une priorité pour nous. La présente politique de confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons, stockons et protégeons vos informations lorsque vous utilisez notre plateforme.
+(Version améliorée avec icônes)
 
-1. Collecte des données personnelles
-Lorsque vous utilisez notre marketplace, nous pouvons collecter les informations suivantes :
+1. 📝 Collecte des données
 
-Données d'identification : nom, prénom, adresse e-mail, numéro de téléphone.
+Données d’identification, compte, livraison, paiement, navigation
 
-Informations de compte : nom d’utilisateur, mot de passe (crypté).
+2. ⚙️ Utilisation des données
 
-Données de livraison : adresse postale, ville, province, code postal.
+Commande, expérience utilisateur, communication, obligations légales
 
-Informations de paiement : via des prestataires sécurisés (nous ne stockons pas vos données bancaires).
+3. 🔗 Partage des données
 
-Données de navigation : adresse IP, type d'appareil, historique d’achats, préférences produits.
+Uniquement prestataires et autorités compétentes
 
-2. Utilisation des données
-Les données collectées sont utilisées pour :
+4. 🔒 Sécurité
 
-Traiter et livrer vos commandes.
+Mesures techniques et organisationnelles
 
-Améliorer l’expérience utilisateur sur notre plateforme.
+5. ⏳ Conservation
 
-Vous informer sur les offres spéciales, promotions et nouveautés (si vous y consentez).
+Durée relation commerciale + 5 ans max
 
-Gérer votre compte utilisateur et assurer le service client.
+6. 🛡️ Vos droits
 
-Se conformer aux obligations légales ou réglementaires en vigueur au Gabon.
+Accès, rectification, suppression, opposition, portabilité
 
-3. Partage des données
-Vos informations ne sont jamais vendues à des tiers. Elles peuvent être partagées uniquement avec :
+7. 🍪 Cookies
 
-Les partenaires logistiques pour la livraison des commandes.
+Amélioration expérience utilisateur, possibilité de refus
 
-Les prestataires techniques (hébergement, maintenance, paiement sécurisé).
+8. ✏️ Modifications
 
-Les autorités compétentes, uniquement en cas d’obligation légale.
+Changements publiés avec date
 
-4. Sécurité des données
-Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles pour protéger vos données contre tout accès non autorisé, perte, altération ou divulgation.
+9. 📞 Contact
 
-5. Conservation des données
-Vos données personnelles sont conservées pendant toute la durée de la relation commerciale et jusqu'à 5 ans après votre dernière interaction, sauf obligation légale contraire.
-
-6. Vos droits
-Conformément à la législation gabonaise en matière de protection des données (et aux normes internationales), vous disposez des droits suivants :
-
-Droit d’accès à vos données.
-
-Droit de rectification ou suppression.
-
-Droit d’opposition au traitement.
-
-Droit à la portabilité des données.
-
-Pour exercer vos droits, contactez-nous à : codesprox@gmail.com
-
-7. Cookies
-Notre site utilise des cookies pour améliorer l’expérience utilisateur. Vous pouvez paramétrer votre navigateur pour refuser les cookies ou être alerté lors de leur utilisation.
-
-8. Modifications de la politique
-Nous nous réservons le droit de modifier cette politique à tout moment. Les changements seront publiés sur cette page avec une date de mise à jour.
-
-9. Contact
-Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à :
 📧 infos@agromarket.com
+
 📞 +241 066 83 78 57

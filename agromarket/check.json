@@ -1,9 +1,31 @@
 {
     "version": "1.0.0",
     "url": "https://codprox.github.io/appinfos/agromarket/",
-    "privacy":"https://codprox.github.io/appinfos/agromarket/data/privacy.txt",
-    "termsconditions":"https://codprox.github.io/appinfos/agromarket/data/termsconditions.txt",
-    "about":"Le marché numérique des produits bio MadeIn GABON",
+    "privacy": {
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/privacy.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/privacy_web.txt"
+    },
+    "terms_conditions": {
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/terms_conditions.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/terms_conditions_web.txt"
+    },
+    "about":{ 
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/about.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/about_web.txt" 
+    },
+    "payment_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/payment_policy.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/payment_policy_web.txt"
+    },
+    "return_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/return_policy.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/return_policy_web.txt"
+    },
+    "shipping_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/agromarket/data/shipping_policy.txt",
+        "web":"https://codprox.github.io/appinfos/agromarket/data/shipping_policy_web.txt"
+    },
     "titleApp":"AgroMarket",
+    "slogan":"Le marché numérique des produits bio MadeIn GABON",
     "icon":"https://codprox.github.io/appinfos/agromarket/icon.png"
 } 
