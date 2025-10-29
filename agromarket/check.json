@@ -27,5 +27,7 @@
     },
     "titleApp":"AgroMarket",
     "slogan":"Le marché numérique des produits bio MadeIn GABON",
-    "icon":"https://codprox.github.io/appinfos/agromarket/icon.png"
+    "icon":"https://codprox.github.io/appinfos/agromarket/icon.png",
+    "iconwhite":"https://codprox.github.io/appinfos/agromarket/icon-white.png",
+    "background":"https://codprox.github.io/appinfos/agromarket/background.png"
 } 
