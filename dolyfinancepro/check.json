@@ -1,0 +1,33 @@
+{
+    "version": "1.0.0",
+    "url": "https://codprox.github.io/appinfos/dolyfinancepro/",
+    "privacy": {
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/privacy.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/privacy_web.txt"
+    },
+    "terms_conditions": {
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/terms_conditions.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/terms_conditions_web.txt"
+    },
+    "about":{ 
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/about.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/about_web.txt" 
+    },
+    "payment_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/payment_policy.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/payment_policy_web.txt"
+    },
+    "return_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/return_policy.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/return_policy_web.txt"
+    },
+    "shipping_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/dolyfinancepro/data/shipping_policy.txt",
+        "web":"https://codprox.github.io/appinfos/dolyfinancepro/data/shipping_policy_web.txt"
+    },
+    "titleApp":"DOLY-FINANCE PRO",
+    "slogan":"Un socle. Tous les métiers. Toutes les régulations.",
+    "icon":"https://codprox.github.io/appinfos/dolyfinancepro/icon.png",
+    "iconwhite":"https://codprox.github.io/appinfos/dolyfinancepro/icon-white.png",
+    "background":"https://codprox.github.io/appinfos/dolyfinancepro/background.png"
+} 
