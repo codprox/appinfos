@@ -1,0 +1,33 @@
+{
+    "version": "1.0.0",
+    "url": "https://codprox.github.io/appinfos/cpfa/",
+    "privacy": {
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/privacy.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/privacy_web.txt"
+    },
+    "terms_conditions": {
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/terms_conditions.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/terms_conditions_web.txt"
+    },
+    "about":{ 
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/about.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/about_web.txt" 
+    },
+    "payment_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/payment_policy.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/payment_policy_web.txt"
+    },
+    "return_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/return_policy.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/return_policy_web.txt"
+    },
+    "shipping_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/cpfa/data/shipping_policy.txt",
+        "web":"https://codprox.github.io/appinfos/cpfa/data/shipping_policy_web.txt"
+    },
+    "titleApp":"DOLY-FINANCE PRO",
+    "slogan":"Un socle. Tous les métiers. Toutes les régulations.",
+    "icon":"https://codprox.github.io/appinfos/cpfa/icon.png",
+    "iconwhite":"https://codprox.github.io/appinfos/cpfa/icon-white.png",
+    "background":"https://codprox.github.io/appinfos/cpfa/background.png"
+} 
