@@ -1,0 +1,91 @@
+CONDITIONS GÉNÉRALES D’UTILISATION DE FINISHDEV
+
+Dernière mise à jour : 21 août 2026
+
+1. DÉFINITIONS
+
+Application : la Progressive Web App FinishDev.
+
+Propriétaire : l’utilisateur principal qui configure l’application, crée les comptes et contrôle les projets.
+
+Superviseur : un utilisateur autorisé à consulter certains projets et à y déposer des commentaires.
+
+Projet actif : l’unique projet sélectionné comme priorité de travail.
+
+Service cloud : le projet Supabase configuré pour l’authentification et la synchronisation.
+
+2. OBJET
+
+Les présentes conditions régissent l’accès et l’utilisation de FinishDev, un outil personnel de concentration, de suivi approfondi et de finalisation des projets.
+
+3. ACCÈS ET COMPTES
+
+FinishDev ne propose pas d’inscription publique. Les comptes sont créés manuellement par le propriétaire dans Supabase Authentication.
+
+Chaque utilisateur doit fournir des informations exactes, préserver la confidentialité de son mot de passe et fermer sa session sur les appareils partagés.
+
+4. FONCTIONNEMENT
+
+FinishDev permet notamment :
+
+- de gérer des projets et d’en désigner un seul comme actif ;
+- de gérer des tâches prioritaires ;
+- d’utiliser des minuteurs Focus et de pause ;
+- de tenir un journal d’avancement ;
+- de conserver les nouvelles idées dans un Parking ;
+- de suivre des étapes de finition ;
+- de synchroniser les données avec Supabase ;
+- d’autoriser des superviseurs à consulter certains projets et à les commenter.
+
+5. MODE LOCAL ET HORS LIGNE
+
+Les données sont d’abord enregistrées localement dans IndexedDB. Certaines fonctionnalités restent disponibles hors ligne.
+
+L’utilisateur reconnaît que les données locales non synchronisées peuvent être perdues en cas d’effacement du stockage, de réinitialisation du navigateur, de désinstallation, de perte ou de panne de l’appareil. Il lui appartient de synchroniser et sauvegarder régulièrement les informations importantes.
+
+6. SYNCHRONISATION
+
+Les opérations Local vers Supabase, Supabase vers Local et la synchronisation complète sont déclenchées par l’utilisateur.
+
+La disponibilité de la synchronisation dépend de la connexion Internet, de Supabase et de la validité de la configuration. L’indication « configuré » ne constitue pas à elle seule une garantie de réussite ; le résultat de l’opération doit être vérifié.
+
+7. CONTENU ET RESPONSABILITÉ DE L’UTILISATEUR
+
+L’utilisateur reste seul responsable des données de projets, informations clients, budgets, échéances, commentaires, décisions et documents qu’il enregistre.
+
+Il s’engage à ne pas saisir de contenu illicite ni à accorder un accès à une personne non autorisée.
+
+8. SUPERVISEURS
+
+Le propriétaire détermine les projets accessibles à chaque superviseur. Les commentaires d’un superviseur constituent des indications de suivi et ne remplacent pas un procès-verbal, une recette officielle, une validation contractuelle ou un engagement de paiement.
+
+9. SUPPRESSION
+
+La suppression d’un projet entraîne la suppression logique de ses éléments enfants, notamment les tâches, journaux, sessions Focus, étapes et commentaires, avant celle du projet. Cette opération peut devenir définitive selon la politique de conservation appliquée dans Supabase.
+
+10. ABSENCE DE GARANTIE DE RÉSULTAT
+
+FinishDev est un outil d’assistance à l’organisation. L’application ne garantit pas la productivité, la livraison d’un projet, son paiement, sa conformité, sa rentabilité ou l’absence d’erreurs.
+
+11. DISPONIBILITÉ ET ÉVOLUTIONS
+
+Le fournisseur peut corriger, améliorer, suspendre ou faire évoluer l’application. Certaines mises à jour peuvent être nécessaires pour maintenir la sécurité ou la compatibilité.
+
+12. PROPRIÉTÉ INTELLECTUELLE
+
+Le code, l’interface, l’icône, les textes et l’identité de FinishDev sont protégés. Toute reproduction ou redistribution non autorisée est interdite.
+
+Les données saisies par l’utilisateur restent sous son contrôle, sous réserve des droits nécessaires à leur traitement technique.
+
+13. DONNÉES PERSONNELLES
+
+Le traitement des données est régi par la Politique de confidentialité de FinishDev.
+
+14. LOI APPLICABLE
+
+Les présentes conditions sont régies par le droit applicable au Gabon. En cas de différend, une résolution amiable sera recherchée avant toute action judiciaire. À défaut, les juridictions compétentes de Libreville pourront être saisies, sauf règle impérative contraire.
+
+15. CONTACT
+
+E-mail : exponentielgabon@gmail.com
+Téléphone/WhatsApp : +241 074 51 15 94

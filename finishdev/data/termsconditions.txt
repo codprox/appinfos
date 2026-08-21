@@ -1,0 +1,70 @@
+Terms and Conditions — FinishDev
+
+Last updated: August 21, 2026
+
+FinishDev is a personal Progressive Web App created by CodproX to help users focus, track progress and complete software or business projects.
+
+1. Acceptance
+
+By accessing or using FinishDev, you agree to these Terms and Conditions. If you do not agree, you must stop using the Application.
+
+2. Accounts
+
+FinishDev does not provide public sign-up. Accounts are created manually by the owner through the configured Supabase Authentication project.
+
+Users are responsible for keeping their credentials secure and for all activity performed through their session.
+
+3. Main features
+
+The Application may provide project and task management, an exclusive active-project mode, focus and break timers, progress gates, project journals, idea parking, offline storage, Supabase synchronization and limited supervisor access.
+
+4. Local and offline data
+
+Data may be stored locally through IndexedDB, browser storage and the PWA cache. Unsynchronized information may be lost if browser data is cleared, the PWA is removed, or the device is lost or damaged.
+
+Users are responsible for synchronizing and backing up important information.
+
+5. Cloud synchronization
+
+Cloud features depend on Internet access, Supabase availability and correct configuration. The Service Provider cannot guarantee uninterrupted synchronization.
+
+Users should review the synchronization result displayed by the Application after important operations.
+
+6. Supervisors
+
+Supervisors may access only the projects assigned to them. Their comments are provided for project follow-up and do not constitute contractual acceptance, formal delivery approval or a payment commitment.
+
+7. User content
+
+Users remain responsible for all project, client, financial, technical and personal information entered into FinishDev. They must not enter unlawful content or grant access to unauthorized persons.
+
+8. No guarantee of results
+
+FinishDev is an organizational aid. It does not guarantee productivity, delivery, payment, profitability, regulatory compliance or error-free project execution.
+
+9. Security
+
+Users must protect their devices and sessions. Rooting, jailbreaking, disabling browser security or exposing Supabase privileged keys may compromise the Application and its data.
+
+10. Intellectual property
+
+The FinishDev code, interface, icon, texts and brand assets remain protected. Unauthorized copying, modification, reverse engineering or redistribution is prohibited.
+
+User-created project data remains under the user’s control, subject to the technical processing required to provide the service.
+
+11. Changes and availability
+
+The Service Provider may update, modify, suspend or discontinue the Application. Security and compatibility updates may be required to continue using it.
+
+12. Privacy
+
+Personal data is handled according to the FinishDev Privacy Policy.
+
+13. Governing law
+
+These Terms are governed by the applicable laws of Gabon. The parties should first seek an amicable resolution. Where permitted, disputes may be submitted to the competent courts of Libreville.
+
+14. Contact
+
+Email: exponentielgabon@gmail.com
+WhatsApp: +241 074 51 15 94

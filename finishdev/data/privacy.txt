@@ -1,0 +1,40 @@
+🔒 Politique de confidentialité — FinishDev
+
+Dernière mise à jour : 21 août 2026
+
+1. 📝 Données traitées
+
+FinishDev peut traiter l’adresse e-mail du compte, les projets, tâches, journaux, sessions Focus, idées du Parking, paramètres locaux, affectations et commentaires des superviseurs.
+
+2. 📱 Stockage local
+
+Les données sont d’abord enregistrées dans IndexedDB sur l’appareil. Elles restent disponibles hors ligne jusqu’à leur suppression ou la suppression des données du navigateur.
+
+3. ☁️ Synchronisation
+
+Lorsque la synchronisation est utilisée, les données sont envoyées vers le projet Supabase configuré par le propriétaire. Aucun mot de passe n’est stocké directement par FinishDev.
+
+4. 🔐 Accès
+
+Les comptes sont créés manuellement. Les politiques RLS limitent l’accès au propriétaire et aux superviseurs affectés aux projets concernés.
+
+5. 🤝 Partage
+
+Les données ne sont ni vendues ni utilisées à des fins publicitaires. Elles peuvent être traitées par Supabase pour fournir l’authentification, la base de données et la synchronisation.
+
+6. ⏳ Conservation
+
+Les données sont conservées jusqu’à leur suppression par l’utilisateur ou selon les règles configurées dans son espace Supabase.
+
+7. 🛡️ Vos droits
+
+Vous pouvez consulter, corriger, exporter ou supprimer vos données. La suppression d’un projet archive aussi ses tâches, journaux, sessions, étapes et commentaires associés.
+
+8. 🍪 Technologies locales
+
+L’application utilise IndexedDB, le stockage local, le cache PWA et les données de session nécessaires à son fonctionnement. Elle n’utilise pas de publicité comportementale.
+
+9. 📞 Contact
+
+📧 exponentielgabon@gmail.com
+📱 +241 074 51 15 94

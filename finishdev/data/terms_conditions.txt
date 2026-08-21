@@ -1,0 +1,56 @@
+📄 Conditions générales d’utilisation — FinishDev
+
+Dernière mise à jour : 21 août 2026
+
+1. 🎯 Objet
+
+FinishDev est une PWA personnelle de concentration, d’organisation et de finalisation des projets.
+
+2. 🔑 Accès
+
+L’accès nécessite un compte créé manuellement par le propriétaire. Il n’existe pas d’inscription publique.
+
+3. 👤 Responsabilité du compte
+
+Chaque utilisateur doit protéger ses identifiants et ne pas partager sa session. Toute activité réalisée depuis son compte est présumée effectuée sous sa responsabilité.
+
+4. 📁 Données de projets
+
+L’utilisateur reste responsable des informations saisies : projets, clients, budgets, tâches, journaux, commentaires et pièces de suivi.
+
+5. 💾 Mode hors ligne
+
+Les données locales non synchronisées peuvent être perdues si le stockage du navigateur est effacé, si la PWA est désinstallée ou si l’appareil est endommagé.
+
+6. ☁️ Synchronisation
+
+La synchronisation dépend de la connexion Internet et de la configuration Supabase. L’utilisateur doit vérifier les résultats affichés après chaque opération importante.
+
+7. 👥 Superviseurs
+
+Les superviseurs accèdent uniquement aux projets qui leur sont affectés. Leurs commentaires ne remplacent pas les validations contractuelles ou professionnelles.
+
+8. ⚠️ Limitation de responsabilité
+
+FinishDev est un outil d’aide à l’organisation. Il ne garantit pas la livraison, le paiement, la réussite commerciale ou l’absence d’erreurs dans les projets.
+
+9. © Propriété intellectuelle
+
+Le code, l’identité visuelle, les textes et les composants propres à FinishDev sont protégés. Les données saisies restent sous le contrôle de leur propriétaire.
+
+10. ⛔ Suspension
+
+Un compte peut être désactivé en cas d’accès non autorisé, d’usage abusif ou de risque pour la sécurité.
+
+11. 🔒 Confidentialité
+
+Le traitement des données est décrit dans la Politique de confidentialité de FinishDev.
+
+12. ⚖️ Droit applicable
+
+Les présentes conditions sont régies par le droit applicable au Gabon. Une solution amiable sera recherchée avant toute procédure.
+
+13. 📞 Contact
+
+📧 exponentielgabon@gmail.com
+📱 +241 074 51 15 94

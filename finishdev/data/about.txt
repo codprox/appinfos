@@ -1,0 +1,30 @@
+🏁 À propos de FinishDev
+
+FinishDev est une application personnelle conçue pour aider les développeurs et porteurs de projets à mieux se concentrer, limiter la dispersion et terminer réellement leur travail.
+
+🎯 Une règle simple
+
+Un seul projet est actif à la fois. Les autres projets restent visibles et organisés, mais ne détournent pas l’attention du travail prioritaire.
+
+⚡ Comment l’application vous aide
+
+✅ Définir jusqu’à trois résultats prioritaires
+⏱️ Travailler avec des blocs Focus configurables
+☕ Chronométrer les pauses
+🚪 Suivre les étapes Fonctionnel, Stable, Utilisable, Livrable et Payé
+📖 Documenter les avancées, décisions et blocages
+💡 Placer les nouvelles idées dans le Parking
+📊 Visualiser l’avancement réel des projets
+💬 Recevoir les commentaires des superviseurs autorisés
+
+📱 Locale, hors ligne et synchronisée
+
+Les données sont enregistrées localement dans l’appareil afin de permettre le travail hors ligne. Lorsque l’utilisateur le demande et qu’une connexion est disponible, elles peuvent être synchronisées avec son espace Supabase sécurisé.
+
+🔒 Une application personnelle
+
+FinishDev ne propose pas d’inscription publique. Les comptes sont créés manuellement par le propriétaire. Les superviseurs accèdent uniquement aux projets qui leur sont attribués.
+
+FinishDev — Moins commencer. Mieux terminer.
+
+Support : exponentielgabon@gmail.com

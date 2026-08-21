@@ -1,0 +1,70 @@
+POLITIQUE DE CONFIDENTIALITÉ DE FINISHDEV
+
+Dernière mise à jour : 21 août 2026
+
+1. OBJET
+
+La présente politique décrit les données traitées par FinishDev, une Progressive Web App personnelle de concentration, de suivi et de finalisation des projets.
+
+2. DONNÉES TRAITÉES
+
+FinishDev peut traiter :
+
+- l’adresse e-mail et l’identifiant technique du compte ;
+- les informations de projets, clients, échéances, budgets et états d’avancement ;
+- les tâches, priorités et statuts ;
+- les journaux d’avancement, décisions, notes et blocages ;
+- les sessions Focus et les durées de pause ;
+- les idées, prospects et fonctionnalités placés dans le Parking ;
+- les affectations et commentaires des superviseurs ;
+- les préférences locales, notamment le thème et les durées configurées ;
+- les métadonnées techniques nécessaires à la synchronisation.
+
+3. FINALITÉS
+
+Ces données sont utilisées uniquement pour fournir les fonctionnalités de FinishDev : organisation, concentration, historique, fonctionnement hors ligne, synchronisation, sécurité et collaboration limitée avec les superviseurs autorisés.
+
+4. STOCKAGE LOCAL ET HORS LIGNE
+
+L’application utilise IndexedDB via Dexie, le stockage local du navigateur et le cache du service worker. Ces technologies permettent de conserver les données sur l’appareil et d’utiliser l’application hors ligne.
+
+La suppression des données du navigateur, la désinstallation de la PWA ou la réinitialisation du stockage peut effacer les données qui n’ont pas été synchronisées.
+
+5. SUPABASE
+
+Lorsque le propriétaire configure et utilise la synchronisation, les données sont transférées vers Supabase pour l’authentification et la base de données. L’accès est contrôlé par des politiques Row Level Security.
+
+FinishDev n’intègre jamais la clé service_role dans le client. Les mots de passe sont gérés par Supabase Authentication et ne sont pas stockés dans IndexedDB.
+
+6. UTILISATEURS ET SUPERVISEURS
+
+L’inscription publique est désactivée. Le propriétaire crée manuellement les comptes autorisés. Un superviseur peut consulter uniquement les projets auxquels il est affecté et y ajouter des commentaires selon les permissions définies.
+
+7. PARTAGE ET SOUS-TRAITANTS
+
+Les données ne sont pas vendues, louées ni utilisées pour de la publicité ciblée. Elles peuvent être traitées par les fournisseurs techniques strictement nécessaires, notamment Supabase et l’hébergeur de la PWA.
+
+8. CONSERVATION ET SUPPRESSION
+
+Les données locales restent présentes jusqu’à leur suppression par l’utilisateur ou par le navigateur. Les données synchronisées suivent les règles de conservation du projet Supabase configuré.
+
+La suppression d’un projet marque également comme supprimés ses tâches, journaux, sessions Focus, étapes FINISH et commentaires avant la synchronisation.
+
+9. SÉCURITÉ
+
+FinishDev applique une authentification par e-mail et mot de passe, des sessions sécurisées, des politiques RLS, une séparation par propriétaire et des affectations explicites des superviseurs.
+
+Il appartient au propriétaire de protéger ses identifiants, de configurer correctement Supabase et de maintenir l’appareil à jour.
+
+10. DROITS
+
+L’utilisateur peut demander l’accès, la rectification, l’export ou la suppression de ses données. Pour toute demande : codesprox@gmail.com.
+
+11. MISES À JOUR
+
+Cette politique peut être actualisée lorsque les fonctionnalités ou prestataires évoluent. La date de mise à jour est indiquée en tête du document.
+
+12. CONTACT
+
+E-mail : exponentielgabon@gmail.com
+Téléphone/WhatsApp : +241 074 51 15 94

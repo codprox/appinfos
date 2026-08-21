@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "minimum_supported_version": "1.0.0",
+  "update_required": false,
+  "url": "https://codprox.github.io/appinfos/finishdev/",
+  "privacy": {
+    "mobile": "https://codprox.github.io/appinfos/finishdev/data/privacy.txt",
+    "web": "https://codprox.github.io/appinfos/finishdev/data/privacy_web.txt"
+  },
+  "terms_conditions": {
+    "mobile": "https://codprox.github.io/appinfos/finishdev/data/terms_conditions.txt",
+    "web": "https://codprox.github.io/appinfos/finishdev/data/terms_conditions_web.txt",
+    "english": "https://codprox.github.io/appinfos/finishdev/data/termsconditions.txt"
+  },
+  "about": {
+    "mobile": "https://codprox.github.io/appinfos/finishdev/data/about.txt",
+    "web": "https://codprox.github.io/appinfos/finishdev/data/about_web.txt"
+  },
+  "charter": "https://codprox.github.io/appinfos/finishdev/data/charte.json",
+  "support": {
+    "email": "exponentielgabon@gmail.com",
+    "whatsapp": "+241074511594"
+  },
+  "titleApp": "FinishDev",
+  "shortName": "FINISH",
+  "slogan": "Moins commencer. Mieux terminer.",
+  "description": "PWA personnelle de concentration, de suivi approfondi et de finalisation des projets.",
+  "icon": "https://codprox.github.io/appinfos/finishdev/icon.png",
+  "iconwhite": "https://codprox.github.io/appinfos/finishdev/icon-white.png",
+  "background": "https://codprox.github.io/appinfos/finishdev/background.png"
+}

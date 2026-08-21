@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "database": "https://codprox.github.io/appinfos/finishdev/data/",
+  "pwa": "https://codprox.github.io/finishdev/",
+  "x86_64": "",
+  "arm64-v8a": "",
+  "armeabi-v7a": "",
+  "ios": "",
+  "playstore": "",
+  "about": "Suivi approfondi, concentration et finalisation des projets.",
+  "titleApp": "FinishDev",
+  "shortName": "FINISH",
+  "slogan": "Moins commencer. Mieux terminer.",
+  "platform": "Progressive Web App",
+  "offlineMode": true,
+  "cloudSync": "Supabase"
+}

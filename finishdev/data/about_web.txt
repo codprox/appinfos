@@ -1,0 +1,41 @@
+À PROPOS DE FINISHDEV
+
+FinishDev est une Progressive Web App personnelle de concentration, de suivi approfondi et de finalisation des projets. Elle répond à un problème fréquent : commencer plusieurs projets avec enthousiasme, puis perdre de la visibilité lorsque viennent les corrections, les tests, la documentation, le déploiement et la livraison.
+
+NOTRE OBJECTIF
+
+FinishDev ne cherche pas à accumuler des listes interminables. L’application protège l’attention avec une règle centrale : un seul projet actif à la fois.
+
+Le projet actif est présenté sur l’accueil avec ses résultats prioritaires, ses blocages, ses étapes de finition et son journal récent. Les autres projets restent accessibles dans le portefeuille sans envahir la journée de travail.
+
+UNE MÉTHODE PRATIQUE
+
+1. Choisir le projet qui doit réellement avancer.
+2. Définir jusqu’à trois résultats vérifiables.
+3. Travailler avec des blocs Focus configurables.
+4. Utiliser le Parking pour conserver les nouvelles idées sans changer de direction.
+5. Documenter les avancées, décisions, notes et blocages.
+6. Fermer progressivement les portes Fonctionnel, Stable, Utilisable, Livrable et Payé.
+
+FONCTIONNALITÉS PRINCIPALES
+
+- Gestion complète des projets et des tâches.
+- Activation exclusive d’un projet.
+- Blocs Focus et minuteur de pause avec alerte.
+- Journal typé et historique.
+- Parking des idées, fonctionnalités et prospects.
+- Statistiques calculées depuis les données réelles.
+- Commentaires des superviseurs autorisés.
+- Thèmes clair et sombre.
+- Installation PWA et fonctionnement hors ligne.
+- Synchronisation locale vers Supabase et Supabase vers le local.
+
+CONFIDENTIALITÉ ET CONTRÔLE
+
+FinishDev est destiné à un usage privé. Il n’existe pas d’inscription publique. Le propriétaire crée manuellement les comptes autorisés dans Supabase Authentication et affecte les superviseurs uniquement aux projets concernés.
+
+Les politiques de sécurité au niveau des lignes limitent l’accès aux données selon l’utilisateur connecté et ses affectations.
+
+FinishDev — Moins commencer. Mieux terminer.
+
+Support : exponentielgabon@gmail.com
