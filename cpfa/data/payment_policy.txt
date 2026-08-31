@@ -1,38 +1,49 @@
-💳 Politique de paiement
+Politique de paiement
 
-Dernière mise à jour : 27 octobre 2025
+Dernière mise à jour : 31 août 2026
 
-1. 🏦 Méthodes de paiement
+1. Objet
 
-Paiement mobile : Airtel Money, Moov Money
+La présente politique décrit les principes applicables aux paiements effectués dans le cadre des services proposés par le Centre Professionnel de Formation à l’Assurance (CPFA), notamment via la plateforme ACQUIS.
 
-Carte bancaire : Visa, Mastercard
+Les paiements peuvent notamment concerner les frais de concours, les frais d’inscription ou de formation, les échéances de scolarité, les demandes de documents ou prestations administratives payantes et toute autre prestation officiellement proposée par le CPFA.
 
-Espèces à la livraison (COD)
+2. Moyens de paiement
 
-2. 💰 Monnaie et facturation
+Les moyens de paiement disponibles peuvent varier selon le service, la période et les prestataires activés par le CPFA. Les moyens affichés dans l’application ou communiqués officiellement par le Centre sont les seuls moyens reconnus.
 
-Prix en XAF, frais de livraison affichés à la commande
+3. Monnaie et montant
 
-Facture électronique envoyée après paiement
+Sauf indication contraire, les montants sont exprimés en francs CFA (XAF). Le montant applicable est celui affiché dans la plateforme, sur l’avis de paiement, la facture, le reçu ou le document officiel émis par le CPFA.
 
-3. 🔒 Sécurité des paiements
+4. Référence et identification
 
-Transactions cryptées SSL, données bancaires non stockées
+Chaque paiement peut être associé à une référence, un candidat, un étudiant, une inscription, un concours, une facture ou un autre objet métier. L’utilisateur doit vérifier les informations avant validation.
 
-Suspension possible en cas de suspicion de fraude
+5. Confirmation du paiement
 
-4. ✅ Confirmation de paiement
+Un paiement n’est considéré comme confirmé qu’après validation par le système, le prestataire de paiement ou le service compétent du CPFA. Une notification, un reçu ou une mise à jour de statut peut être généré après confirmation.
 
-E-mail de confirmation envoyé après paiement réussi
+6. Sécurité
 
-5. 🔄 Remboursements et annulations
+Lorsque le paiement est effectué via un prestataire externe, les données bancaires ou financières sensibles sont traitées selon les règles de ce prestataire et ne sont pas nécessairement stockées par le CPFA.
 
-Selon Politique de retour
-, remboursement sous 7 à 10 jours ouvrables
+7. Paiements en attente ou échoués
 
-6. 📞 Contact
+Un paiement peut rester en attente lorsque la confirmation du prestataire n’a pas encore été reçue. En cas d’échec, l’utilisateur doit vérifier le statut de la transaction avant de recommencer afin d’éviter un double paiement.
 
-📧 infos@agromarket.com
+8. Remboursements et annulations
 
-📞 +241 066 83 78 57
+Les conditions de remboursement dépendent du type de prestation, de son état d’exécution et des règles applicables au service concerné. Toute demande doit être adressée au CPFA avec les justificatifs nécessaires.
+
+9. Justificatifs
+
+L’utilisateur est invité à conserver ses reçus, références, captures ou confirmations de transaction jusqu’à la validation définitive du paiement.
+
+10. Fraude et opérations suspectes
+
+Le CPFA peut suspendre la validation d’une opération ou demander des justificatifs supplémentaires en cas d’anomalie, de suspicion de fraude ou d’incohérence.
+
+11. Contact
+
+Pour toute difficulté liée à un paiement, veuillez contacter le service compétent du CPFA via les coordonnées officielles ou les canaux disponibles dans ACQUIS.

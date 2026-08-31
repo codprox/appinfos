@@ -1,60 +1,79 @@
-📄 Conditions Générales d’Utilisation et de Vente (CGUV)
+Conditions générales d’utilisation des services numériques du CPFA
 
+Dernière mise à jour : 31 août 2026
 
-1. 📝 Définitions
+1. Objet
 
-Marketplace, Utilisateur, Acheteur, Vendeur, Produit bio (voir détails précédemment)
+Les présentes conditions régissent l’accès et l’utilisation des services numériques proposés par le Centre Professionnel de Formation à l’Assurance (CPFA), notamment la plateforme ACQUIS, ses interfaces web et son application mobile.
 
-2. ⚖️ Objet
+2. Acceptation
 
-Conditions d’utilisation, relations contractuelles, commandes et livraison
+L’utilisation de la plateforme implique l’acceptation des présentes conditions. L’utilisateur s’engage à utiliser les services conformément à leur finalité, aux règles du CPFA et aux lois applicables.
 
-3. 🔑 Accès à la plateforme
+3. Comptes utilisateurs
 
-Compte personnel requis
+Certaines fonctionnalités nécessitent un compte personnel. L’utilisateur est responsable de la confidentialité de ses identifiants et doit signaler rapidement toute suspicion d’accès non autorisé.
 
-4. 🛍️ Produits proposés
+4. Profils et autorisations
 
-Fiches descriptives, responsabilité du vendeur, disponibilité
+Les fonctionnalités disponibles dépendent du profil, du rôle et des permissions attribuées. L’utilisateur ne doit pas tenter de contourner les restrictions d’accès.
 
-5. 🛒 Commandes
+5. Candidatures et concours
 
-Processus de validation et confirmation
+Les candidats peuvent, lorsque le service est ouvert, consulter les concours, soumettre une candidature, transmettre les documents demandés, activer un accès candidat, suivre leur statut et consulter leurs résultats lorsqu’ils sont publiés. Les informations transmises doivent être exactes et authentiques.
 
-6. 💰 Prix et paiement
+6. Services académiques
 
-En XAF, paiement sécurisé via prestataires tiers
+Les étudiants peuvent accéder, selon les fonctionnalités disponibles, à leurs inscriptions, cours, plannings, évaluations, notes, bulletins, documents académiques et autres informations associées à leur parcours. Les données officielles validées par le CPFA prévalent sur toute information provisoire affichée.
 
-7. 🚛 Livraison
+7. Documents et fichiers
 
-Partenaires logistiques, délais variables, vérification à la réception
+L’utilisateur ne doit transmettre que des fichiers légitimes et nécessaires au service concerné. Il est interdit d’envoyer des fichiers malveillants, frauduleux, falsifiés ou sans rapport avec le service.
 
-8. 🔄 Droit de rétractation
+8. Paiements
 
-7 jours pour produits non conformes (hors périssables)
+Les paiements effectués via ou en lien avec la plateforme sont soumis à la Politique de paiement du CPFA. Un paiement n’est considéré comme confirmé qu’après validation du système, du prestataire ou du service compétent.
 
-9. ⚠️ Responsabilité
+9. Notifications et communications
 
-Marketplace = intermédiaire, vendeur = responsable produit
+Le CPFA peut envoyer des notifications relatives aux cours, changements de planning, évaluations, résultats, documents, paiements, communications administratives, concours ou autres informations importantes, notamment par notification push, e-mail, SMS ou notification interne.
 
-10. © Propriété intellectuelle
+10. Visioconférence et services tiers
 
-Textes, images, logos protégés par loi
+Certaines activités peuvent utiliser des services tiers de visioconférence, de paiement ou de communication, soumis le cas échéant à leurs propres conditions.
 
-11. ⛔ Suspension ou résiliation de compte
+11. Disponibilité
 
-Fraude, activité illicite, non-respect des CGUV
+Le CPFA s’efforce d’assurer la disponibilité de ses services sans garantir un fonctionnement permanent et sans interruption.
 
-12. 🔒 Données personnelles
+12. Utilisation interdite
 
-Traitement selon Politique de Confidentialité
+Il est interdit d’accéder frauduleusement aux comptes ou données d’un tiers, de falsifier des informations ou documents, de perturber la plateforme, d’exploiter une faille de sécurité, d’utiliser les services pour une activité illicite ou de copier sans autorisation des éléments protégés.
 
-13. ⚖️ Loi applicable
+13. Suspension ou résiliation
 
-Droit gabonais, tribunal compétent : Libreville
+Le CPFA peut suspendre ou limiter un compte en cas de fraude, usage abusif, violation des présentes conditions, risque de sécurité ou décision administrative justifiée.
 
-14. 📞 Contact
+14. Propriété intellectuelle
 
-📧 infos@agromarket.com
+Les contenus, marques, logos, interfaces et documents appartenant au CPFA ou à leurs titulaires respectifs sont protégés.
 
-📞 +241 066 83 78 57
+15. Données personnelles
+
+Les données personnelles sont traitées conformément à la Politique de confidentialité du CPFA.
+
+16. Responsabilité
+
+L’utilisateur est responsable des informations et documents qu’il transmet. Le CPFA ne saurait être tenu responsable des interruptions résultant d’un problème de réseau, du terminal de l’utilisateur ou d’un service tiers hors de son contrôle.
+
+17. Évolution des services
+
+Le CPFA peut modifier, améliorer, ajouter ou retirer des fonctionnalités lorsque cela est nécessaire.
+
+18. Droit applicable
+
+Les services sont exploités dans le cadre des règles et obligations applicables au CPFA en République Gabonaise.
+
+19. Contact
+
+Pour toute question relative aux présentes conditions, veuillez contacter le CPFA via ses coordonnées officielles.

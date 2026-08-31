@@ -1,69 +1,51 @@
-Politique de Confidentialité
-Dernière mise à jour : 2025-05-17
+Politique de confidentialité
 
-Bienvenue sur notre Marketplace spécialisée dans la vente de produits bio made in Gabon. La protection de vos données personnelles est une priorité pour nous. La présente politique de confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons, stockons et protégeons vos informations lorsque vous utilisez notre plateforme.
+Dernière mise à jour : 31 août 2026
 
-1. Collecte des données personnelles
-Lorsque vous utilisez notre marketplace, nous pouvons collecter les informations suivantes :
+1. Objet
 
-Données d'identification : nom, prénom, adresse e-mail, numéro de téléphone.
+La présente politique explique comment le Centre Professionnel de Formation à l’Assurance (CPFA) collecte, utilise, conserve et protège les données personnelles traitées dans le cadre de ses activités et de sa plateforme numérique ACQUIS.
 
-Informations de compte : nom d’utilisateur, mot de passe (crypté).
+2. Données susceptibles d’être collectées
 
-Données de livraison : adresse postale, ville, province, code postal.
+Selon votre profil et les services utilisés, nous pouvons traiter notamment : identité et coordonnées ; données de compte, rôles et permissions ; données académiques ; données de concours ; informations professionnelles ; documents transmis ; références et statuts de paiement ; données techniques, journaux et sessions ; appareils et préférences de notification.
 
-Informations de paiement : via des prestataires sécurisés (nous ne stockons pas vos données bancaires).
+3. Finalités du traitement
 
-Données de navigation : adresse IP, type d'appareil, historique d’achats, préférences produits.
+Ces données peuvent être utilisées pour créer et administrer les comptes, gérer les candidatures et inscriptions, organiser les formations, gérer les emplois du temps, évaluations, notes et présences, produire les documents académiques, gérer les paiements, communiquer avec les utilisateurs, envoyer des notifications, sécuriser les accès, assurer l’audit et produire les statistiques nécessaires à la gestion du Centre.
 
-2. Utilisation des données
-Les données collectées sont utilisées pour :
+4. Accès et confidentialité
 
-Traiter et livrer vos commandes.
+Les utilisateurs n’accèdent qu’aux données et fonctionnalités correspondant à leur rôle, leurs permissions et leur périmètre d’organisation.
 
-Améliorer l’expérience utilisateur sur notre plateforme.
+5. Partage des données
 
-Vous informer sur les offres spéciales, promotions et nouveautés (si vous y consentez).
+Les données peuvent être communiquées lorsque cela est nécessaire aux services internes du CPFA, à des prestataires techniques indispensables au fonctionnement des services ou aux autorités compétentes lorsqu’une obligation légale l’exige. Le CPFA ne vend pas les données personnelles de ses utilisateurs.
 
-Gérer votre compte utilisateur et assurer le service client.
+6. Services externes
 
-Se conformer aux obligations légales ou réglementaires en vigueur au Gabon.
+Certaines fonctionnalités peuvent s’appuyer sur des services tiers pour l’envoi d’e-mails, les notifications push, la visioconférence, les paiements, l’hébergement ou la synchronisation.
 
-3. Partage des données
-Vos informations ne sont jamais vendues à des tiers. Elles peuvent être partagées uniquement avec :
+7. Conservation
 
-Les partenaires logistiques pour la livraison des commandes.
+Les données sont conservées pendant la durée nécessaire aux finalités poursuivies ainsi qu’aux obligations administratives, académiques, comptables, réglementaires ou légales. Certaines données académiques et certains documents officiels peuvent nécessiter une conservation de longue durée.
 
-Les prestataires techniques (hébergement, maintenance, paiement sécurisé).
+8. Sécurité
 
-Les autorités compétentes, uniquement en cas d’obligation légale.
+Le CPFA met en œuvre des mesures techniques et organisationnelles destinées à protéger les données contre les accès non autorisés, l’altération, la perte ou la divulgation. Elles peuvent inclure l’authentification, les contrôles par rôles et permissions, la journalisation, le chiffrement des communications, la gestion sécurisée des sessions et les restrictions d’accès aux fichiers.
 
-4. Sécurité des données
-Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles pour protéger vos données contre tout accès non autorisé, perte, altération ou divulgation.
+9. Droits des personnes
 
-5. Conservation des données
-Vos données personnelles sont conservées pendant toute la durée de la relation commerciale et jusqu'à 5 ans après votre dernière interaction, sauf obligation légale contraire.
+Sous réserve des règles applicables et des obligations du CPFA, vous pouvez demander l’accès, la rectification ou la mise à jour de certaines données vous concernant, ainsi que leur suppression lorsqu’elle est juridiquement et administrativement possible.
 
-6. Vos droits
-Conformément à la législation gabonaise en matière de protection des données (et aux normes internationales), vous disposez des droits suivants :
+10. Cookies et stockage local
 
-Droit d’accès à vos données.
+Les interfaces web peuvent utiliser des cookies ou des mécanismes de stockage local nécessaires à l’authentification, la sécurité, la conservation des préférences et le fonctionnement de la plateforme.
 
-Droit de rectification ou suppression.
+11. Modifications
 
-Droit d’opposition au traitement.
+La présente politique peut être mise à jour afin de tenir compte des évolutions fonctionnelles, techniques, réglementaires ou organisationnelles.
 
-Droit à la portabilité des données.
+12. Contact
 
-Pour exercer vos droits, contactez-nous à : codesprox@gmail.com
-
-7. Cookies
-Notre site utilise des cookies pour améliorer l’expérience utilisateur. Vous pouvez paramétrer votre navigateur pour refuser les cookies ou être alerté lors de leur utilisation.
-
-8. Modifications de la politique
-Nous nous réservons le droit de modifier cette politique à tout moment. Les changements seront publiés sur cette page avec une date de mise à jour.
-
-9. Contact
-Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à :
-📧 infos@agromarket.com
-📞 +241 066 83 78 57
+Pour toute question relative à la protection des données ou à l’utilisation de la plateforme ACQUIS, veuillez contacter le CPFA via ses coordonnées officielles.
