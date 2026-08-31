@@ -17,14 +17,6 @@
         "mobile":"https://codprox.github.io/appinfos/cpfa/data/payment_policy.txt",
         "web":"https://codprox.github.io/appinfos/cpfa/data/payment_policy_web.txt"
     },
-    "return_policy":{ 
-        "mobile":"https://codprox.github.io/appinfos/cpfa/data/return_policy.txt",
-        "web":"https://codprox.github.io/appinfos/cpfa/data/return_policy_web.txt"
-    },
-    "shipping_policy":{ 
-        "mobile":"https://codprox.github.io/appinfos/cpfa/data/shipping_policy.txt",
-        "web":"https://codprox.github.io/appinfos/cpfa/data/shipping_policy_web.txt"
-    },
     "titleApp":"DOLY-FINANCE PRO",
     "slogan":"Un socle. Tous les métiers. Toutes les régulations.",
     "icon":"https://codprox.github.io/appinfos/cpfa/icon.png",
