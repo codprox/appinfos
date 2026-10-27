@@ -1,38 +1,33 @@
-🌱 À propos d’AgroMarket
+À propos de PharmaPilot
 
-Bienvenue sur AgroMarket, la première marketplace gabonaise dédiée à la vente et à la promotion de produits bio, locaux et durables.
-Notre mission est claire : valoriser le savoir-faire des producteurs gabonais, soutenir une économie responsable et offrir aux consommateurs un accès simple, sûr et équitable à des produits 100 % naturels.
+PharmaPilot est un logiciel de gestion complet d’officine conçu pour moderniser et simplifier le fonctionnement quotidien des pharmacies.
 
-🌿 Notre vision
+Notre vision
 
-Chez AgroMarket, nous croyons qu’un avenir plus sain commence par une alimentation respectueuse de la nature et des hommes.
-C’est pourquoi nous mettons en avant les produits issus de l’agriculture biologique, cultivés sans pesticides ni OGM, dans le respect de la biodiversité et des traditions locales.
+Nous souhaitons offrir aux pharmacies une solution moderne, accessible et adaptée aux réalités du terrain. Cette vision repose sur la qualité des outils de gestion, la sécurité des données et la transformation numérique des opérations de l’officine.
 
-Nous sommes convaincus que consommer local, c’est agir pour le développement durable du Gabon.
-Chaque achat sur AgroMarket soutient directement nos producteurs partenaires, qui œuvrent chaque jour à offrir des produits frais, sains et éthiques.
+PharmaPilot, l’écosystème numérique de votre pharmacie
 
-🛒 Une expérience simple et transparente
+PharmaPilot centralise les services essentiels de la pharmacie. Il permet notamment de gérer et consulter :
+• Les stocks et inventaires (produits, lots, dates de péremption)
+• Les ventes et les ordonnances
+• Les dossiers patients et l’historique de délivrance
+• Les fournisseurs, commandes et livraisons
+• Les encaissements et le suivi des paiements
+• Les rapports, statistiques et indicateurs de performance
+• Les utilisateurs, rôles et permissions
+• Les notifications et communications internes
 
-Grâce à notre plateforme, vous pouvez :
+Les utilisateurs disposent d’un accès adapté à leur profil et à leurs permissions.
 
-Découvrir une large gamme de produits bio “made in Gabon”.
+Les pharmaciens et préparateurs peuvent gérer la dispensation, consulter les stocks en temps réel, suivre les patients et générer les documents nécessaires.
 
-Commander en toute sécurité via nos modes de paiement locaux (Airtel Money, Moov Money, carte bancaire, etc.).
+Les responsables et administrateurs disposent de fonctionnalités de supervision : tableaux de bord, rapports, gestion des utilisateurs, paramétrage et suivi financier.
 
-Bénéficier d’une livraison fiable partout au Gabon grâce à nos partenaires logistiques.
+Sécurité et confidentialité
 
-Profiter d’un service client réactif et proche de vous.
+L’accès aux données et fonctionnalités dépend des rôles et permissions attribués. PharmaPilot met en œuvre des mesures techniques et organisationnelles visant à protéger les données, contrôler les accès et assurer la traçabilité des opérations sensibles.
 
-La confiance est au cœur de notre démarche : nous veillons à la traçabilité des produits, à la transparence des vendeurs et à la sécurisation de vos données personnelles.
+Évolution continue
 
-🔒 Conformité et engagement
-
-L’utilisation d’AgroMarket est régie par nos Conditions Générales d’Utilisation et de Vente
- et notre Politique de Confidentialité
-.
-Nous respectons la législation gabonaise en matière de commerce électronique et de protection des données personnelles. Vos informations sont traitées avec soin, en toute confidentialité, et ne sont jamais revendues à des tiers.
-
-🤝 Rejoignez la communauté AgroMarket
-
-AgroMarket, c’est plus qu’une marketplace — c’est un mouvement pour une consommation consciente et durable au Gabon.
-En choisissant nos produits, vous soutenez une agriculture responsable, encouragez les circuits courts et participez à la construction d’un avenir plus vert 🌍.
+La plateforme PharmaPilot évolue avec les besoins des pharmacies afin d’améliorer en permanence les services proposés aux équipes et aux patients.

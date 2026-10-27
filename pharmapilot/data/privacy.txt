@@ -1,41 +1,30 @@
-🔒 Politique de Confidentialité
+🔒 Politique de Confidentialité — PharmaPilot
 
-(Version améliorée avec icônes)
+Dernière mise à jour : 27 octobre 2026
 
 1. 📝 Collecte des données
-
-Données d’identification, compte, livraison, paiement, navigation
+Données d’identification, compte, patients, stocks, ventes, ordonnances, paiement, navigation et journaux techniques.
 
 2. ⚙️ Utilisation des données
-
-Commande, expérience utilisateur, communication, obligations légales
+Gestion de l’officine, dispensation, stocks, reporting, expérience utilisateur, communication et obligations légales.
 
 3. 🔗 Partage des données
-
-Uniquement prestataires et autorités compétentes
+Uniquement prestataires techniques nécessaires et autorités compétentes lorsque la loi l’exige. Aucune vente de données.
 
 4. 🔒 Sécurité
-
-Mesures techniques et organisationnelles
+Mesures techniques et organisationnelles (authentification, rôles, chiffrement, journalisation).
 
 5. ⏳ Conservation
-
-Durée relation commerciale + 5 ans max
+Durée nécessaire à la gestion de l’officine + obligations légales et réglementaires applicables.
 
 6. 🛡️ Vos droits
-
-Accès, rectification, suppression, opposition, portabilité
+Accès, rectification, suppression (dans les limites légales), opposition et portabilité selon le cadre applicable.
 
 7. 🍪 Cookies
-
-Amélioration expérience utilisateur, possibilité de refus
+Amélioration de l’expérience et fonctionnement de l’application ; possibilité de paramétrage.
 
 8. ✏️ Modifications
-
-Changements publiés avec date
+Les changements sont publiés avec indication de la date de mise à jour.
 
 9. 📞 Contact
-
-📧 infos@agromarket.com
-
-📞 +241 066 83 78 57
+Utilisez les canaux de contact disponibles dans PharmaPilot ou les coordonnées fournies par l’administrateur de votre pharmacie.

@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0",
+    "url": "https://codprox.github.io/appinfos/pharmapilot/",
+    "privacy": {
+        "mobile":"https://codprox.github.io/appinfos/pharmapilot/data/privacy.txt",
+        "web":"https://codprox.github.io/appinfos/pharmapilot/data/privacy_web.txt"
+    },
+    "terms_conditions": {
+        "mobile":"https://codprox.github.io/appinfos/pharmapilot/data/terms_conditions.txt",
+        "web":"https://codprox.github.io/appinfos/pharmapilot/data/terms_conditions_web.txt"
+    },
+    "about":{ 
+        "mobile":"https://codprox.github.io/appinfos/pharmapilot/data/about.txt",
+        "web":"https://codprox.github.io/appinfos/pharmapilot/data/about_web.txt" 
+    },
+    "payment_policy":{ 
+        "mobile":"https://codprox.github.io/appinfos/pharmapilot/data/payment_policy.txt",
+        "web":"https://codprox.github.io/appinfos/pharmapilot/data/payment_policy_web.txt"
+    },
+    "titleApp":"PharmaPilot Mobile",
+    "slogan":"Votre pharmacie au bout des doigts.",
+    "icon":"https://codprox.github.io/appinfos/pharmapilot/icon.png",
+    "iconwhite":"https://codprox.github.io/appinfos/pharmapilot/icon-white.png",
+    "background":"https://codprox.github.io/appinfos/pharmapilot/background.png"
+} 

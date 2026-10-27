@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "Professionnalisme",
+    "description": "Utiliser PharmaPilot de manière professionnelle et conforme aux bonnes pratiques pharmaceutiques."
+  },
+  {
+    "title": "Confidentialité",
+    "description": "Protéger les données des patients et les informations de l’officine."
+  },
+  {
+    "title": "Exactitude",
+    "description": "Saisir et valider des informations exactes et à jour."
+  },
+  {
+    "title": "Sécurité",
+    "description": "Ne pas partager ses identifiants et signaler tout incident de sécurité."
+  }
+]

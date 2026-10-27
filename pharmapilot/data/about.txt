@@ -1,34 +1,35 @@
-🌱 À propos d’AgroMarket
+À propos de PharmaPilot
 
-Bienvenue sur AgroMarket, la première marketplace gabonaise dédiée à la vente de produits bio, locaux et durables.
-Notre mission est claire : valoriser le savoir-faire des producteurs gabonais, soutenir une économie responsable et offrir aux consommateurs un accès simple, sûr et équitable à des produits 100 % naturels.
+Bienvenue dans PharmaPilot, le logiciel de gestion complet pour les pharmacies.
 
-🌿 Notre vision
+PharmaPilot est une solution numérique moderne conçue pour accompagner les pharmaciens, les préparateurs et les équipes de l’officine dans toutes leurs activités quotidiennes. L’application mobile et la version web centralisent les services essentiels afin d’offrir une expérience simple, fluide et sécurisée.
 
-Chez AgroMarket, nous croyons qu’un avenir plus sain commence par une alimentation respectueuse de la nature et des hommes.
-Nous mettons en avant des produits issus de l’agriculture biologique, cultivés sans pesticides ni OGM, dans le respect de la biodiversité et des traditions locales.
+Notre mission
 
-Nous sommes convaincus que consommer local, c’est agir pour le développement durable du Gabon.
-Chaque achat sur AgroMarket soutient directement nos producteurs partenaires, qui œuvrent chaque jour à offrir des produits frais, sains et éthiques.
+PharmaPilot a pour mission d’optimiser la gestion complète d’une pharmacie : stocks, ventes, ordonnances, patients, fournisseurs, facturation et reporting. Nous facilitons le travail des professionnels de santé en réduisant les tâches administratives et en améliorant la précision et la traçabilité.
 
-🛒 Une expérience simple et transparente
+Avec PharmaPilot, cette mission s’étend au numérique : accès rapide à l’information, suivi en temps réel, fluidité des opérations et disponibilité des services depuis le web ou l’application mobile.
 
-Grâce à notre plateforme, vous pouvez :
+Une plateforme complète pour la pharmacie
 
-    ✅ Découvrir une large gamme de produits bio “made in Gabon”
+Selon votre profil et vos autorisations, PharmaPilot permet notamment de :
+• Gérer le stock (entrées, sorties, inventaires, alertes de péremption et de rupture)
+• Traiter les ventes et les ordonnances
+• Suivre les dossiers patients et l’historique des délivrances
+• Gérer les fournisseurs et les commandes
+• Effectuer les encaissements et suivre les paiements
+• Générer des rapports et des statistiques de gestion
+• Recevoir des notifications importantes
+• Accéder aux ressources et paramètres de l’officine
 
-    💳 Commander en toute sécurité via paiement mobile, carte bancaire ou COD
+Transformation numérique de l’officine
 
-    🚛 Profiter d’une livraison fiable partout au Gabon
+PharmaPilot accompagne la modernisation des pharmacies en réunissant dans un même environnement les fonctions de gestion, de dispensation et d’administration.
 
-    📞 Bénéficier d’un service client réactif et proche de vous
+Nos engagements
 
-    🔒 Conformité et engagement
+Nous nous engageons à améliorer continuellement la qualité de nos services numériques, à protéger les données professionnelles et patients, à garantir un accès conforme aux rôles et autorisations, à assurer la traçabilité des opérations sensibles et à favoriser une utilisation simple et fiable au quotidien.
 
-L’utilisation d’AgroMarket est régie par nos CGUV et notre Politique de Confidentialité.
-Nous respectons la législation gabonaise et protégeons vos informations personnelles.
+Contact
 
-🤝 Rejoignez la communauté AgroMarket
-
-AgroMarket, c’est plus qu’une marketplace — c’est un mouvement pour une consommation consciente et durable au Gabon.
-En choisissant nos produits, vous soutenez une agriculture responsable, encouragez les circuits courts et participez à la construction d’un avenir plus vert 🌍.
+Pour toute question concernant PharmaPilot ou son utilisation, veuillez utiliser les canaux de contact disponibles dans l’application ou les coordonnées communiquées par votre administrateur.
